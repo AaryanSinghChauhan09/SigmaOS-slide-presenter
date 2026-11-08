@@ -2,5 +2,9 @@
 name = "sigmaos_slide_presenter"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "SigmaOS slide-presenter component inspired by Linux Mint / Omarchy / Arch Linux."
 
-[dependencies]
+[lib]
+name = "sigmaos_slide_presenter"
+path = "src/lib.rs"
