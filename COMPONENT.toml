@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-slide-presenter"
 tier = 4
-description = "Lightweight HTML & Markdown slide presentation deck renderer inspired by Hype"
+description = "Markdown slide presenter"
 contracts = ['slide-presenter', 'deck-compiler', 'presenter-mode']
 upstream_inspirations = ['https://github.com/omacom/hype']
